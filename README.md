@@ -10,6 +10,9 @@ This is a sample kafka project explaining producer and consumer in kafka with th
 # STEP 1: GET KAFKA
 
       Download the latest Kafka release and extract it:
+      
+      tar -xzf kafka_2.13-3.1.0.tgz
+      cd kafka_2.13-3.1.0
 
 
 # STEP 2: START THE KAFKA ENVIRONMENT
